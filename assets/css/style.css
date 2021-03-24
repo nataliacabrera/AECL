@@ -197,3 +197,6 @@ p {
   animation-name: blink 2s step-start 0s infinite;
   -webkit-animation: blink 2s step-start 0s infinite;
 }
+.card{
+  background-color: black;
+}
