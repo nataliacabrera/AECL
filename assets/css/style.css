@@ -194,9 +194,22 @@ p {
   }
 }
 .blink {
-  animation-name: blink 2s step-start 0s infinite;
-  -webkit-animation: blink 2s step-start 0s infinite;
+  animation-name: blink 0.2s step-start 0s infinite;
+  -webkit-animation: blink 0.2s step-start 0s infinite;
 }
-.card{
+
+.card {
   background-color: black;
+}
+
+.botonExpo{
+  background: #c3f20d;
+  color: white;
+  font-family: 'juramedium';
+  font-size: 50px;
+
+}
+
+a.btn.botonExpo{
+  color:white;
 }
